@@ -1,5 +1,9 @@
 # Telecom Data Analysis Agent
 
+
+https://github.com/user-attachments/assets/9cec5fa9-33e6-4d7a-b889-5385d40ae3a6
+
+
 A Streamlit app where you upload CSV files and ask questions about them in plain language.
 A LangGraph loop sends your question to a Groq-hosted model, which writes Python (Polars + Plotly),
 runs it on your data and answers with numbers, charts or a PDF report.
