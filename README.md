@@ -20,7 +20,6 @@ streamlit run app.py
 ```
 
 Then upload a CSV, select it, press **Go** and start asking questions.
-Charts inside PDF reports need `kaleido` (included in requirements.txt).
 
 ## Project layout
 
