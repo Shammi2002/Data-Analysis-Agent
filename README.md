@@ -36,5 +36,5 @@ Charts inside PDF reports need `kaleido` (included in requirements.txt).
 | `data_utils.py` | State types, `describe_df` and the per-turn dataset summary |
 | `config.py` | Folders, model settings and limits |
 
-Uploaded files, charts and PDFs are stored in `uploaded_datasets/`, `images/` and `generated_pdfs/`,
+Uploaded files, charts and PDFs are stored in `uploaded_datasets/`, `images/` 
 which are created next to the code on first run.
